@@ -9,7 +9,7 @@ See section [Features](#features) for details.
 
 This sample application is contained in the Maven module sample-spring-boot.
 A minimal CF application manifest is provided in [manifest.yml.](manifest.yml)
-You should change the name before building the app to avoid naming conflicts.
+To avoid naming conflicts, the name of the app should be changed in the manifest before building it.
 The app can be built with a simple `mvn install`.
 This allows to deploy the newly built app with `cf push`, provided a login to a CF instance.
 
