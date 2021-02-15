@@ -309,8 +309,9 @@ Stacktraces can be logged within one log message. Further details can be found
 
 ## Sample Applications
 
-In order to illustrate how the different features are used, this repository includes - a simple java application in the [./sample folder](./sample).
-- a simple Spring boot application in the [./sample-spring-boot folder](./sample-spring-boot).
+In order to illustrate how the different features are used, this repository includes
+  * a simple java application in the [./sample](./sample) folder.
+  * a simple Spring boot application in the [./sample-spring-boot](./sample-spring-boot) folder.
 
 ## Documentation
 
