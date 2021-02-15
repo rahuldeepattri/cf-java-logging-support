@@ -307,9 +307,10 @@ description about how to apply this feature can be found
 Stacktraces can be logged within one log message. Further details can be found
 [here](https://github.com/SAP/cf-java-logging-support/wiki/Logging-Stack-Traces).
 
-## Sample Application
+## Sample Applications
 
-In order to illustrate how the different features are used, this repository includes a simple application in the  [./sample folder](./sample).
+In order to illustrate how the different features are used, this repository includes - a simple java application in the [./sample folder](./sample).
+- a simple Spring boot application in the [./sample-spring-boot folder](./sample-spring-boot).
 
 ## Documentation
 
